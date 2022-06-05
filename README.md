@@ -2,40 +2,40 @@
 
 # Description
 
--Kira Plastinina is a Russian brand that is sold through a defunct chain of retail stores in Russia, Ukraine, Kazakhstan, Belarus, China, Philippines, and Armenia.
+- Kira Plastinina is a Russian brand that is sold through a defunct chain of retail stores in Russia, Ukraine, Kazakhstan, Belarus, China, Philippines, and Armenia.
 
--Kira Plastinina Sales and Marketing team would like to understand their customer’s behavior from data that they have collected over the past year.
+- Kira Plastinina Sales and Marketing team would like to understand their customer’s behavior from data that they have collected over the past year.
 
--Most specifically they would like to learn the characteristics of the customer's group.
+- Most specifically they would like to learn the characteristics of the customer's group.
 
 # Experimental Design
 
- -Installing packages and loading libraries
+ - Installing packages and loading libraries
  
- -Loading the data
+ - Loading the data
  
- -Check the data
+ - Check the data
  
- -Clean the data
+ - Clean the data
  
- -univariate analysis
+ - univariate analysis
  
- -Bivariate analysis
+ - Bivariate analysis
  
- -modelling
+ - modelling
  
  - Conclusion
- - 
- -Recommendation
+  
+ - Recommendation
  
- -Challenge the solution
+ - Challenge the solution
  
- -Follow up question
+ - Follow up question
  # Set up/ Installation Needed
  
- -Windows/Mac/Linux Pc
+ - Windows/Mac/Linux Pc
  
- -R Programming basics
+ - R Programming basics
  
  # Bugs
  
