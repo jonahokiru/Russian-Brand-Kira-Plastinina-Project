@@ -1,4 +1,4 @@
-# Russian Brand Kira- Plastinina
+# Russian Brand Kira- Plastinina project.
 
 # Description
 
