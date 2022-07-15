@@ -10,7 +10,7 @@
 
 # Experimental Design
 
- - Installing packages and loading libraries
+ - Installing packages and the required loading libraries
  
  - Loading the data
  
