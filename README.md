@@ -31,6 +31,7 @@
  - Challenge the solution
  
  - Follow up question
+ 
  # Set up/ Installation Needed
  
  - Windows/Mac/Linux Pc
@@ -41,9 +42,12 @@
  
  - There was no bug
 
-# Technology
+# Technology employed.
+
 - Rstudion IDE (Markdown)
+
 - PDF Reader
+
 - Github.
 
 
